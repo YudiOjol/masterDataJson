@@ -1,8 +1,0 @@
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-:root { --bg:#f8fafc; --surface:#ffffff; --surface-2:#f1f5f9; --border:#e2e8f0; --text:#0f172a; }
-.dark { --bg:#0b1220; --surface:#131d33; --surface-2:#1a2642; --border:#23324f; --text:#e2e8f0; }
-body{ background:var(--bg); color:var(--text); }
-.mono{ font-family: ui-monospace, monospace; }
