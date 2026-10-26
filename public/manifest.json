@@ -1,0 +1,8 @@
+{
+  "name": "Expiry CS77",
+  "short_name": "CS77",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "icons": []
+}
